@@ -1,1 +1,5 @@
 Ahora estoy introduciendo la primera linea para el segundo documento creado
+
+Esta es la seguna linea despues del commit y creada una rama.
+
+Deseo ver el comportamiento de usar ramas...
